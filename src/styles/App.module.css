@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  color: white;
+}
+.parent-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+
+  padding: 10px 20px;
+  overflow: hidden;
+}

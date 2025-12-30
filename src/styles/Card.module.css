@@ -1,0 +1,28 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  gap: 10px;
+  width: 300px;
+  height: 320px;
+  border-radius: 10px;
+  overflow: hidden;
+  /* border: 1px solid #ccc; */
+  align-items: center;
+  cursor: pointer;
+}
+.image-container {
+  background-size: cover;
+  object-fit: cover;
+  width: 100%;
+  height: 70%;
+}
+img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+p {
+  margin-top: 10px;
+  font-size: 22px;
+}
