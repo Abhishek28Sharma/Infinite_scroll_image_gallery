@@ -85,14 +85,11 @@ https://picsum.photos/v2/list?page=1&limit=10
 ## 🧪 Installation & Setup
 
 ```bash
-git clone https://github.com/your-username/infinite-scroll-gallery.git
-cd infinite-scroll-gallery
+git clone https://github.com/Abhishek28Sharma/Infinite_scroll_image_gallery
+cd Infinite_scroll_image_gallery
 npm install
 npm run dev
 ```
 
 ---
 
-## 📄 License
-
-MIT License
